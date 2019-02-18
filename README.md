@@ -1,30 +1,18 @@
 # vue_mockjs
-##mockjs模拟数据和easy-mockjs使用对比
+## mockjs模拟数据和easy-mockjs使用对比
 
-## Project setup
+## 初始化项目
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 运行项目
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 项目打包
 ```
 npm run build
 ```
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
